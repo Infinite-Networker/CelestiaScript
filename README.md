@@ -113,6 +113,6 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 <br/>
 
-*Crafted with 🌌 stardust and ✨ code by [Infinite-Networker](https://github.com/Infinite-Networker)*
+*Crafted with 🌌 stardust and ✨ code by [Cherry Computer Ltd.]*
 
 </div>
